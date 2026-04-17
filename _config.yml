@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Summer Cui/ Summer Cui"
+title                    : "Summer Cui"
 title_separator          : "-"
 name                     : &name "Summer Shengmeng Cui"
 description              : &description "A researcher of educational theory and philosophy"   #
-url                      : https://summercuis.github.io # The base hostname & protocol for your site e.g. "https://summercuis.github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://summercuis.github.io/summer.cui"
+url                      : https://summer-cui.github.io# The base hostname & protocol for your site e.g. "https://summercuis.github.io",
+                                                           
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "summercuis/summercuis.github.io"
+repository               : "summer-cui/summer-cui.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "cb72610c-d432-4bc3-a484-d1db6e8a84e3.png"
   name             : "Summer Cui"
-  pronouns         : #she/her"  
+  pronouns         : #"she/her"  
   bio              : "Technology, philosophy and education"
   location         : "Melbourne"
   employer         : "University of Melbourne"
   uri              : # https://findanexpert.unimelb.edu.au/profile/1096383-summer-cui
-  email            : "summer.cui@unimelb.edu.au
+  email            : "summer.cui@unimelb.edu.au"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com.au/citations?user=VMSnLZMAAAAJ&hl=en"
